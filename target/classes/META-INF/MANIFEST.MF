@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SampleSpringBootApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: naresh.kamisetti
+Implementation-Vendor-Id: com.sample.spring.boot
+Build-Jdk: 1.8.0_11
+Implementation-URL: http://projects.spring.io/spring-boot/SampleSpring
+ BootApp/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
